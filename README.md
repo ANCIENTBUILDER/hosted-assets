@@ -1,2 +1,2 @@
 # Hosted-Assets
-FCC Tribute Page: David Icke
+FCC project assets
